@@ -1,0 +1,5 @@
+package mssfcore
+
+func InitMssfore() {
+	
+}
